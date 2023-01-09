@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://fspillum.github.io/csb-9k4vri/static/js/main.40ea643c.chunk.js",
+    "main.js.map": "https://fspillum.github.io/csb-9k4vri/static/js/main.40ea643c.chunk.js.map",
+    "runtime-main.js": "https://fspillum.github.io/csb-9k4vri/static/js/runtime-main.b437f338.js",
+    "runtime-main.js.map": "https://fspillum.github.io/csb-9k4vri/static/js/runtime-main.b437f338.js.map",
+    "static/js/2.ab2861a9.chunk.js": "https://fspillum.github.io/csb-9k4vri/static/js/2.ab2861a9.chunk.js",
+    "static/js/2.ab2861a9.chunk.js.map": "https://fspillum.github.io/csb-9k4vri/static/js/2.ab2861a9.chunk.js.map",
+    "index.html": "https://fspillum.github.io/csb-9k4vri/index.html",
+    "precache-manifest.d60d5891c53528d124f6e95ecb0f9cd9.js": "https://fspillum.github.io/csb-9k4vri/precache-manifest.d60d5891c53528d124f6e95ecb0f9cd9.js",
+    "service-worker.js": "https://fspillum.github.io/csb-9k4vri/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b437f338.js",
+    "static/js/2.ab2861a9.chunk.js",
+    "static/js/main.40ea643c.chunk.js"
+  ]
+}
